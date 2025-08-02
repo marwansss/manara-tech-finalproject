@@ -6,7 +6,7 @@ This project outlines the AWS architecture used for [Project 1: Scalable Web App
 
 ## 📊 Architecture Diagram
 
-![AWS Architecture Diagram](./assets/Blank diagram.png)
+![AWS Architecture Diagram](./assets/aws-architecture.png)
 
 ## 📄 Documentation
 
