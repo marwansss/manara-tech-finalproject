@@ -8,7 +8,7 @@ This project outlines the AWS architecture used for [Project 1: Scalable Web App
 
 For a full walkthrough and illustration of the infrastructure, watch the recorded video below:
 
-[📺 Click here to watch the video](https://your-video-link.com)
+[📺 Click here to watch the video](https://drive.google.com/file/d/1O4AJRxfBlWh8WS-8kcFittkJYycGSccZ/view?usp=sharing)
 
 > The video includes an explanation of the architecture, deployment flow, and how the components interact.
 
